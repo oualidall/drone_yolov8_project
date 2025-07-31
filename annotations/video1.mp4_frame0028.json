@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0028.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 343.2865905761719,
+        "y": 330.74542236328125,
+        "w": 124.36642456054688,
+        "h": 147.78311157226562
+      },
+      "obj_name": "bench",
+      "name_accuracy": 0.3852161169052124
+    }
+  ]
+}

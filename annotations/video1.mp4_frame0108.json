@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0108.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 0.14665302634239197,
+        "y": 295.495849609375,
+        "w": 33.53134074807167,
+        "h": 66.611572265625
+      },
+      "obj_name": "truck",
+      "name_accuracy": 0.4689803719520569
+    }
+  ]
+}

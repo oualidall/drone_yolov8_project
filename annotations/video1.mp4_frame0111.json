@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0111.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 0.1690620332956314,
+        "y": 281.7736511230469,
+        "w": 73.76701126992702,
+        "h": 62.146484375
+      },
+      "obj_name": "car",
+      "name_accuracy": 0.700158953666687
+    }
+  ]
+}

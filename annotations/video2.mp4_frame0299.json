@@ -1,0 +1,19 @@
+{
+  "image_filename": "video2.mp4_frame0299.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 240.4921417236328,
+        "y": 114.18766021728516,
+        "w": 21.375808715820312,
+        "h": 37.809303283691406
+      },
+      "obj_name": "potted plant",
+      "name_accuracy": 0.2595584988594055
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0133.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 721.7960205078125,
+        "y": 78.56472778320312,
+        "w": 13.06573486328125,
+        "h": 23.057456970214844
+      },
+      "obj_name": "bird",
+      "name_accuracy": 0.27817922830581665
+    }
+  ]
+}

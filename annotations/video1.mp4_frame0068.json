@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0068.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 115.31173706054688,
+        "y": 120.30064392089844,
+        "w": 15.6302490234375,
+        "h": 40.858551025390625
+      },
+      "obj_name": "person",
+      "name_accuracy": 0.7082740664482117
+    }
+  ]
+}

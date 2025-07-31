@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0059.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 44.75328063964844,
+        "y": 315.9808349609375,
+        "w": 802.1234893798828,
+        "h": 156.71536254882812
+      },
+      "obj_name": "airplane",
+      "name_accuracy": 0.3465583622455597
+    }
+  ]
+}

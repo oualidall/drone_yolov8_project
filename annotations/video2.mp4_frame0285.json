@@ -1,0 +1,19 @@
+{
+  "image_filename": "video2.mp4_frame0285.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 2.011761426925659,
+        "y": 4.465809345245361,
+        "w": 845.1232483386993,
+        "h": 468.9009509086609
+      },
+      "obj_name": "oven",
+      "name_accuracy": 0.27424144744873047
+    }
+  ]
+}

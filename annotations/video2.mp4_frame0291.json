@@ -1,0 +1,19 @@
+{
+  "image_filename": "video2.mp4_frame0291.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 799.6356201171875,
+        "y": 135.62371826171875,
+        "w": 48.11700439453125,
+        "h": 66.26864624023438
+      },
+      "obj_name": "train",
+      "name_accuracy": 0.25980913639068604
+    }
+  ]
+}

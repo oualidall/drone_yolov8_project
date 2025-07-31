@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0139.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 0.1924389749765396,
+        "y": 290.8294372558594,
+        "w": 45.08492003381252,
+        "h": 90.95401000976562
+      },
+      "obj_name": "frisbee",
+      "name_accuracy": 0.7725412249565125
+    }
+  ]
+}

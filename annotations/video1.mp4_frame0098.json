@@ -1,0 +1,19 @@
+{
+  "image_filename": "video1.mp4_frame0098.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 26.70027732849121,
+        "y": 430.4916687011719,
+        "w": 22.853330612182617,
+        "h": 25.812286376953125
+      },
+      "obj_name": "traffic light",
+      "name_accuracy": 0.353943794965744
+    }
+  ]
+}

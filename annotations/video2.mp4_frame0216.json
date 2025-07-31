@@ -1,0 +1,19 @@
+{
+  "image_filename": "video2.mp4_frame0216.jpg",
+  "image_dimensions": {
+    "width": 848,
+    "height": 480
+  },
+  "objects": [
+    {
+      "contour": {
+        "x": 0.6322742104530334,
+        "y": 305.2152404785156,
+        "w": 127.86125606298447,
+        "h": 41.469024658203125
+      },
+      "obj_name": "boat",
+      "name_accuracy": 0.2899136543273926
+    }
+  ]
+}
